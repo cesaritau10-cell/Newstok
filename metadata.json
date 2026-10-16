@@ -1,0 +1,8 @@
+{
+  "name": "Stok Center Pelotas - Gestor de Compras & Automação Python",
+  "description": "Gestor inteligente e interativo de compras de supermercado com simulador de carrinho, controle de orçamento e suíte completa de automação Python/Playwright para o Stok Center Pelotas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
